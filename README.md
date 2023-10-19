@@ -1,7 +1,7 @@
 
-# templete react-app
+# catalogo de componentes usando rsuite
+Contiene un catalgo de componentes que reutilizan componentes de rsuite de una manera mas reducida y facil de implementar. 
 
-Templete de aplicacion React para grupo Diniz.
 Imagen basada en https://github.com/El3Cam/react-el3.git
 
 ## Requisitos
@@ -16,7 +16,7 @@ Asegúrate de tener instalado lo siguiente en tu sistema antes de continuar:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/El3Cam/react-diniz.git
+git clone https://github.com/El3Cam/components-rsuite.git
 
 ```
 
